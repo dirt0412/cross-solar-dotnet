@@ -4,6 +4,7 @@ namespace CrossSolar.Domain
 {
     public class OneDayElectricityModel
     {
+
         public double Sum { get; set; }
 
         public double Average { get; set; }
